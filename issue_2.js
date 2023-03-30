@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript
+
 // This function takes a string as an argument and returns a new string where each word is converted to pig latin.
 function pigIt(str) {
 
